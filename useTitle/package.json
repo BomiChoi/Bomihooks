@@ -1,0 +1,28 @@
+{
+  "name": "@bomihooks/use-title",
+  "version": "1.0.0",
+  "description": "React Hook to update your document's title",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BomiChoi/Bomihooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title"
+  ],
+  "author": "Bomi Choi <hibomi97@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BomiChoi/Bomihooks/issues"
+  },
+  "homepage": "https://github.com/BomiChoi/Bomihooks#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
